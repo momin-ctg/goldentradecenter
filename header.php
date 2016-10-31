@@ -132,9 +132,9 @@
 										</ul> -->
 										<!-- /Sub Navigation -->
 									</li>
-									<li><a href="services.html">Services<span><i>|</i> Our Services</span></a></li>
+									<li><a href="services.php">Services<span><i>|</i> Our Services</span></a></li>
 									<li>
-										<a href="products.html">Products <span><i>|</i> Our Products</span></a>
+										<a href="products.php">Products <span><i>|</i> Our Products</span></a>
 										<!-- Sub Navigation -->
 										<!-- 	<ul>
 												<li><a href="portfolio-2cols.html">Portfolio 2 cols</a></li>
