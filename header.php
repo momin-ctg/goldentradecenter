@@ -110,7 +110,7 @@
 								<a href="index.html"><img src="images/logo.png" alt="Opensource-It" width="200" height="80" /></a> -->
 
 								<!-- Text based Logo -->
-								<h1><a href="index.html">Golden Trade Center</a></h1>
+								<h1><a href="index.php">Golden Trade Center</a></h1>
 								<p class="tagline">Exporter, Importer & Suppliers</p>
 
 							</div>
@@ -121,7 +121,7 @@
 							<nav class="primary">
 								<ul class="sf-menu">
 									<li class="current-menu-item">
-										<a href="index.html">About Us <span><i>|</i> Why Choose Us</span></a>
+										<a href="index.php">About Us <span><i>|</i> Why Choose Us</span></a>
 										<!-- Sub Navigation -->
 										<!-- <ul>
 											<li class="current-menu-item"><a href="about.html">About Us</a></li>
@@ -146,7 +146,7 @@
 									</li>
 
 									<li>
-										<a href="contacts.html">Contacts <span><i>|</i> Get in Touch</span></a>
+										<a href="contacts.php">Contacts <span><i>|</i> Get in Touch</span></a>
 									</li>
 								</ul>
 							</nav>
